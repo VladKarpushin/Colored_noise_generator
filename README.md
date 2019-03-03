@@ -11,11 +11,11 @@ In this tutorial you will learn:
 Theory
 ------
 Input signal: 
-white noise or delta function
+white noise or delta function.
 
 Filter:
-H = GaussWindow, MarkowWindow, MarkowWindow, RectWindow, EllipseWindow
-h = RectWindow, EllipseWindow, 
+H = GaussWindow, MarkowWindow, MarkowWindow, RectWindow, EllipseWindow;
+h = RectWindow, EllipseWindow.
 
 Result
 ------
