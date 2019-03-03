@@ -6,7 +6,7 @@ Goal
 
 In this tutorial you will learn:
 
--   how to generate colored noise
+-   how to generate a colored noise
 
 Theory
 ------
@@ -23,10 +23,10 @@ So, totally, we can generate 14 different images (2 * 5 + 2 * 2)
 Some result you can see below.
 
 The figure below shows an filter output result when h = circle, input signal = white noise
-![Image corrupted by periodic noise](/www/images/h=circle.jpg)
+![](/www/images/h=circle.jpg)
 
 The figure below shows an filter output result when h = square, input signal = white noise
-![Power spectrum density showing periodic noise](/www/images/h=square.jpg)
+![](/www/images/h=square.jpg)
 
 The figure below shows an filter output result when H = circle, input signal = white noise
-![Power spectrum density showing periodic noise](/www/images/HH=circle.jpg)
+![](/www/images/HH=circle.jpg)
