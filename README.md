@@ -23,6 +23,14 @@ Result
 So, totally, we can generate 14 different images (2 * 5 + 2 * 2).
 Some results you can see below.
 
+The figure below shows an filter output result when H = gauss, input signal = white noise.
+
+![1](/www/images/H=gauss1_signal=noise.jpg)
+
+The figure below shows an filter output result when H = gauss, input signal = white noise.
+
+![1](/www/images/H=gauss2_signal=noise.jpg)
+
 The figure below shows an filter output result when h = circle, input signal = white noise.
 
 ![1](/www/images/h=circle_signal=noise.jpg)
