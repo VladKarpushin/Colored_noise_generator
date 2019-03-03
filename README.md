@@ -14,7 +14,8 @@ Input signal:
 white noise or delta function.
 
 Filter:
-H = GaussWindow, MarkowWindow, MarkowWindow, RectWindow, EllipseWindow;
+H = GaussWindow, MarkowWindow, MarkowWindow, RectWindow, EllipseWindow.
+
 h = RectWindow, EllipseWindow.
 
 Result
