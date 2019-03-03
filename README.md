@@ -23,13 +23,13 @@ So, totally, we can generate 14 different images (2 * 5 + 2 * 2)
 Some result you can see below.
 
 The figure below shows an filter output result when h = circle, input signal = white noise.
-![](/www/images/h=circle.jpg)
+![](/www/images/h=circle_signal=noise.jpg)
 
 The figure below shows an filter output result when h = square, input signal = white noise.
-![](/www/images/h=square.jpg)
+![](/www/images/h=square_signal=noise.jpg)
 
 The figure below shows an filter output result when H = circle, input signal = white noise.
-![](/www/images/HH=circle.jpg)
+![](/www/images/HH=circle_signal=noise.jpg)
 
 The figure below shows an filter output result when H = circle, input signal = delta function.
 ![](/www/images/H=circle_signal=delta.jpg)
