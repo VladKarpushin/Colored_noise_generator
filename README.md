@@ -30,3 +30,6 @@ The figure below shows an filter output result when h = square, input signal = w
 
 The figure below shows an filter output result when H = circle, input signal = white noise.
 ![](/www/images/HH=circle.jpg)
+
+The figure below shows an filter output result when H = circle, input signal = delta function.
+![](/www/images/H=circle_signal=delta.jpg)
