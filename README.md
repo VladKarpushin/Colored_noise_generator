@@ -39,6 +39,10 @@ The figure below shows an filter output result when h = square, input signal = w
 
 ![2](/www/images/h=square_signal=noise.jpg)
 
+The figure below shows an filter output result when H = markow, input signal = white noise.
+
+![2](/www/images/h=markow_signal=noise.jpg)
+
 The figure below shows an filter output result when H = circle, input signal = white noise.
 
 ![3](/www/images/HH=circle_signal=noise.jpg)
