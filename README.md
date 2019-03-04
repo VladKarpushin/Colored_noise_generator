@@ -14,13 +14,13 @@ Input signal:
 white noise or delta function.
 
 Filter:
-H = GaussWindow, MarkowWindow, MarkowWindow, RectWindow, EllipseWindow.
+H = GaussWindow, MarkowWindow, RectWindow, EllipseWindow.
 
 h = RectWindow, EllipseWindow.
 
 Result
 ------
-So, totally, we can generate 14 different images (2 * 5 + 2 * 2).
+So, totally, we can generate 12 different images (2 * 4 + 2 * 2).
 Some results you can see below.
 
 The figure below shows an filter output result when H = gauss, input signal = white noise.
